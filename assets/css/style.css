@@ -178,8 +178,9 @@ form button.btn-primary:hover {
 }
 
 .hero .slide-content {
-  min-height: 650px;
-  color: #fff;
+ min-height: 600px;
+ color: #fff;
+ margin-top: -60px !important;
 }
 
 .hero .slide-content span {
