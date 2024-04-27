@@ -115,7 +115,7 @@ header::after {
 }
 
 .navbar-brand img {
-  width: 300px;
+  width: 300px !important;
 }
 
 .navbar-collapse .search-form input[type="text"] {
