@@ -28,6 +28,8 @@ header {
   background-color: #490b2d;
   color: #fff;
   z-index: 1000;
+  border-bottom: 1px solid #eee;
+  position: relative !important;
 }
 
 header a {
@@ -113,7 +115,7 @@ header::after {
 }
 
 .navbar-brand img {
-  width: 200px;
+  width: 300px;
 }
 
 .navbar-collapse .search-form input[type="text"] {
